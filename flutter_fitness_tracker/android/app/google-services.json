@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579829938341",
+    "project_id": "flutter-fitness-tracker-b574c",
+    "storage_bucket": "flutter-fitness-tracker-b574c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579829938341:android:8de764e85d33a80bf0754c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fitness_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoqrsDoOYgIB-aeAbMq9eOVcu0C16_6oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
